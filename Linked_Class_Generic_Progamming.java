@@ -1,8 +1,3 @@
-Q. 13) Write a program in java to implement a generic program using Collection - LinkedList class 
-to count the number of elements in a collection that have a specific property such as prime 
-number and palindromes.
-Ans.
-
 import kotlin.jvm.internal.SpreadBuilder;
 
 import java.util.*;
