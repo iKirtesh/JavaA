@@ -1,10 +1,3 @@
-Q. 06) Write a program in java to handle Number format Exception and ArrayIndexOutOfBound 
-exception. The user enters two numbers Num1 and Num2. The division of Num1 and Num2 is 
-displayed. If Num1 and Num2 are not integers, the program would throw a Number Format 
-Exception.
-Ans. 
-
-
 import java.util.Scanner;
 
 public class ExceptionDemo {
