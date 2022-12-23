@@ -1,8 +1,3 @@
-Q. 14) Write a program in java to maintaining a database of student records using Files. Student has 
-Student_id,name,Roll_no, Class, marks and address. Display the data for few students. i) Create 
-Database ii) Display Database iii)Update Record.
-Ans.
-
 public class A8_Student
     {
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
