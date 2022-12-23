@@ -1,10 +1,3 @@
-Q. 11) Write a program in java to Design and develop a context for given case study and implement 
-an interface for Vehicles Consider the example of vehicles like car and bike. All Vehicles have 
-common functionalities such as Gear Change, Speed up and apply breaks. Make an interface and 
-put all these common functionalities. Bicycle, Bike, Car classes should be implemented for all 
-these functionalities in their own class in their own way.
-Ans.
-
 public interface Vehicle {
     void changeGear(int x);
     void speedUp(int x);
