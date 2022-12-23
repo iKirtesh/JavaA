@@ -1,10 +1,3 @@
-Q. 02) Write a program in java to find how many copies of the given books are ordered and display 
-total sale of publication. Identify commonalities and differences between Publication, Book and 
-Magazine classes. Title, Price, Copies are common instance variables and saleCopy is common 
-method. The differences are, Book class has author and order Copies(). Magazine Class has 
-methods orderQty, Currentissue, receiveissue().
-Ans.
-
 public class Publication {
     public String title;
     public double price;
