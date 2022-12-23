@@ -1,10 +1,3 @@
-Q. 10) Write a program in java that accepts dimensions of rectangle and display calculated area. 
-Implement dynamic binding for given case study. Design a base class shape with two double 
-type values and member functions to input the data and compute_area() for calculating area of 
-shape. Derive two classes: triangle and rectangle. Make compute_area() as abstract function and 
-redefine this function in the derived class to suit their requirements.
-Ans.
-
 import java.util.Scanner;
 
 public abstract class Shape {
