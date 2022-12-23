@@ -1,8 +1,3 @@
-Q. 07) Write a program in java to implement a generic program using Collection - ArrayList class 
-to count the number of elements in a collection that have a specific property such as even 
-numbers, odd number and prime number.
-Ans.
-
 public class Collection { 
     static int count = 0;
     static void even_odd(int x){
