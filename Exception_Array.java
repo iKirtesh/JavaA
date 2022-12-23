@@ -1,8 +1,3 @@
-Q. 12) Write a program in java to handle Arithmetic Exception,Array Index Out of Bounds. The 
-user enters two numbers Num1 and Num2. The division of Num1 and Num2 is displayed. If 
-Num2 were zero, the program would throw an Arithmetic Exception. Display the exception.
-Ans.
-
 import java.util.Scanner;
 
 public class ExceptionDemo {
