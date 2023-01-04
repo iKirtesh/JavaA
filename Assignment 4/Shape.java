@@ -31,3 +31,21 @@ public abstract class Shape {
 
     public abstract double compute_area();
 }
+
+
+
+
+
+public class Rectangle extends Shape {
+
+    double area;
+
+    public double compute_area() {
+        height = this.getHeight();
+        width = this.getWidth();
+
+        area = height * width;
+        return area;
+    }
+
+}
